@@ -1,0 +1,11 @@
+streamlit==0.70.0
+pandas==1.0.3
+numpy==1.16.4
+matplotlib==3.1.0
+seaborn==0.9.0
+PIL==7.2.0
+sklearn==0.23.0
+xgboost==1.2.0
+hashlib
+pickle
+base64
