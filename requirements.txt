@@ -7,5 +7,5 @@ seaborn==0.9.0
 sklearn
 xgboost==1.2.0
 #hashlib
-#pickle
+pickle
 #base64
