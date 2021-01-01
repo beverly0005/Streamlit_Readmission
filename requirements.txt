@@ -3,9 +3,10 @@ pandas==1.0.3
 numpy==1.16.4
 matplotlib==3.1.0
 seaborn==0.9.0
-#PIL
+#PIL is old and Pillow is new
+Pillow
 sklearn
 xgboost==1.2.0
 #hashlib
-pickle
+#pickle
 #base64
