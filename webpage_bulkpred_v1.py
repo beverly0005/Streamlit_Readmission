@@ -9,8 +9,6 @@ import pickle
 import pandas as pd
 import base64
 import xgboost as xgb
-import lime
-from lime import lime_tabular  # lime.lime_tabular doesn't work here, has to use "from lime import lime_tabular instead"
 
 
 # User Parameters
