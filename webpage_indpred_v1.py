@@ -8,8 +8,6 @@ import streamlit as st
 import pickle
 import pandas as pd
 import xgboost as xgb
-import lime
-from lime import lime_tabular  # lime.lime_tabular doesn't work here, has to use "from lime import lime_tabular instead"
 
 
 # User Parameters
