@@ -19,8 +19,8 @@ import pandas as pd
 
 
 # User Parameters
-MAIN_BG = '/Users/zhiyuwang/Desktop/Streamlit_tutorial/Figure/olga-thelavart-vS3idIiYxX0-unsplash.jpg'
-WORKDIR = '/Users/zhiyuwang/Desktop/Streamlit_tutorial/'
+MAIN_BG = 'Figure/olga-thelavart-vS3idIiYxX0-unsplash.jpg'
+WORKDIR = ''
 
 # Main
 def main():
