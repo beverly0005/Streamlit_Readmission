@@ -20,7 +20,7 @@ import pandas as pd
 
 # User Parameters
 MAIN_BG = '/Users/zhiyuwang/Desktop/Streamlit_tutorial/Figure/olga-thelavart-vS3idIiYxX0-unsplash.jpg'
-WORKDIR = '/Users/zhiyuwang/Desktop/Streamlit_tutorial/Code/'
+WORKDIR = '/Users/zhiyuwang/Desktop/Streamlit_tutorial/'
 
 # Main
 def main():
