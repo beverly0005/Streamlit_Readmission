@@ -5,8 +5,8 @@ Please add in necessary information
 
 # Import Libraries
 import streamlit as st
-#from PIL import Image
-from Pillow import Image
+from PIL import Image
+#from Pillow import Image
 
 
 # User Parameters
