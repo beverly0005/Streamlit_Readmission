@@ -9,8 +9,6 @@ import pandas as pd
 import pickle
 import base64
 import numpy as np
-import xgboost as xgb
-from sklearn.metrics import (precision_recall_curve, roc_auc_score, accuracy_score)
 
 
 # User Parameters
